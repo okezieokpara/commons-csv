@@ -5,5 +5,4 @@ test:
 machine:
  java:
    version: openjdk7
-general:
-  build_dir: src
+
