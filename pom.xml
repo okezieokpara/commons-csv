@@ -218,7 +218,7 @@ CSV files of various types.
   </build>
 
   <reporting>
-       <outputDirectory>${basedir}/target/site</outputDirectory>
+       <outputDirectory>${basedir}/target/surefire-reports</outputDirectory>
     <plugins>
       <!-- Keep in sync with build config above -->
       <plugin>
